@@ -1,0 +1,408 @@
+canonical_identifier: bkk:krp/KR6k0152/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0152/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毗尼關要
+  identifiers:
+    krp: KR6k0152
+    cbeta: X40n0720
+    cbeta_old_id: X40n0720
+    authorityid: CA0002386
+    json_key: X0720
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0720.xml
+    old_id: X40n0720
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0152_000-X.yaml, hash: 'sha256:74134ac3950e0c145c5c479fd057adee715e03507b05e098bcbad59bca903f7b'}
+  - {seq: 1, filename: KR6k0152_001-X.yaml, hash: 'sha256:bab4f2e45562f7045b04605f7913c7a4e12e8cea47d773271a2f121dc5a38ea4'}
+  - {seq: 2, filename: KR6k0152_002-X.yaml, hash: 'sha256:a36e696c956ff9f76c24854b2678e34390866594c194a39801041fa40b0c0529'}
+  - {seq: 3, filename: KR6k0152_003-X.yaml, hash: 'sha256:c695075b0124529b3e685ea5d43414e26394cc49f12d0eaa93ed525b1e11c78b'}
+  - {seq: 4, filename: KR6k0152_004-X.yaml, hash: 'sha256:3b3bcd798dca77200d71a7ce1c0385186e2151267976a46f347087e0092aba7d'}
+  - {seq: 5, filename: KR6k0152_005-X.yaml, hash: 'sha256:9e47cd40863014e2ef67d009f1427259726d1f314d5e523fc23db9eea88fe082'}
+  - {seq: 6, filename: KR6k0152_006-X.yaml, hash: 'sha256:4dc161890e63707e5ceeb43a1d1629df7a6f7f6c302209baf8da0d5264be6a8a'}
+  - {seq: 7, filename: KR6k0152_007-X.yaml, hash: 'sha256:c0ff9668084dce542192fc1f65a37e4e4f165a1965e45c9c10652aa9f88459de'}
+  - {seq: 8, filename: KR6k0152_008-X.yaml, hash: 'sha256:f8e9272f4ce1358f37176cfd452e224798b639ef5c438254f1d9295c874a2dff'}
+  - {seq: 9, filename: KR6k0152_009-X.yaml, hash: 'sha256:0a9b679fe4216eb1d43b60ff20536ba690694b41e4a22426a11255e682763f70'}
+  - {seq: 10, filename: KR6k0152_010-X.yaml, hash: 'sha256:ee823a36c8aa18f6bea470f0a6c0e026da1e7e0807a63ed0ab480cf616a3c2a7'}
+  - {seq: 11, filename: KR6k0152_011-X.yaml, hash: 'sha256:6850046e0ec4c9d71db531748d4f3f22a0ee5813b2026d5f7fcaa61095dd25a1'}
+  - {seq: 12, filename: KR6k0152_012-X.yaml, hash: 'sha256:57a93a041b06094fcf9e29d3fe1940043c25169dcdcf7233ef4ccf8337e75fe5'}
+  - {seq: 13, filename: KR6k0152_013-X.yaml, hash: 'sha256:5982c3a51ff3d7938bd3ab836d94413c8628911c000f94a5fa33541897704c18'}
+  - {seq: 14, filename: KR6k0152_014-X.yaml, hash: 'sha256:3c10f14a0edfbbec052719596a2598698b2d77275f6f5a6aa57e02960aeab7fe'}
+  - {seq: 15, filename: KR6k0152_015-X.yaml, hash: 'sha256:65a9108c96ecfffff5b371a2eeb7cea6a8c6b0315e41f6b701953ad75c9afde5'}
+  - {seq: 16, filename: KR6k0152_016-X.yaml, hash: 'sha256:3ad8dbe20751718ec9d7e222bbe286419a97996d6f7843a52b779b8c6e1c5f18'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0152_000-X.markers.yaml, hash: 'sha256:9eab98afbe45af6270896d05eb9753d5fb0b6f85faf04c28d3f23ec75ce35c9e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0152_001-X.markers.yaml, hash: 'sha256:0198df1aeee4394340d4925d5b3c64184613b500a0c80166a99154b72adbb1e4'}
+  - {seq: 2, role: markers, filename: assets/KR6k0152_002-X.markers.yaml, hash: 'sha256:688f569f8a9e88facc58d2121199264f1fc4670e60fadb1810b23df329edc9d3'}
+  - {seq: 3, role: markers, filename: assets/KR6k0152_003-X.markers.yaml, hash: 'sha256:80ec802c9a5ef07489cdb164080db561d6196854c89ba8f95a9f29ddc1bd8863'}
+  - {seq: 4, role: markers, filename: assets/KR6k0152_004-X.markers.yaml, hash: 'sha256:2aed03737f4d8891f0c28a6f2405f52b5b41a9d74bdbaa2b7ddf48effee4678d'}
+  - {seq: 5, role: markers, filename: assets/KR6k0152_005-X.markers.yaml, hash: 'sha256:795a1486842cc72cd72ae3411875823d5b846d483b0af304467f615f08ec98c9'}
+  - {seq: 6, role: markers, filename: assets/KR6k0152_006-X.markers.yaml, hash: 'sha256:5b0dfb2931af4d77f3a74e5795af44b234341e7c781c82ad82a1464a99ae8afe'}
+  - {seq: 7, role: markers, filename: assets/KR6k0152_007-X.markers.yaml, hash: 'sha256:3c4dcf3def9ecb2c5b5d87d8ada7bce5d39e4841676ef7c7fb15215c89cd89fc'}
+  - {seq: 8, role: markers, filename: assets/KR6k0152_008-X.markers.yaml, hash: 'sha256:a85f228f3dca408cd1a06ca786773269071b3f048cba21531f42c5dee86778be'}
+  - {seq: 9, role: markers, filename: assets/KR6k0152_009-X.markers.yaml, hash: 'sha256:c48b928fd1f591382d25d730d5e4c32e12a9b3618be437f0df6f6b2ee2108c36'}
+  - {seq: 10, role: markers, filename: assets/KR6k0152_010-X.markers.yaml, hash: 'sha256:d25df361544160dcdff3411b9400ab5cc518296079d89150e3ebe21b9319e764'}
+  - {seq: 11, role: markers, filename: assets/KR6k0152_011-X.markers.yaml, hash: 'sha256:8aca73bfb8a4b2706eb91d3f5b110da01545162637fb2595e497ed0587c6693a'}
+  - {seq: 12, role: markers, filename: assets/KR6k0152_012-X.markers.yaml, hash: 'sha256:6547dfd17c47b82f4ed54c5eb576d9b091381e0fc0a11b74a7b2bdca6261fd8b'}
+  - {seq: 13, role: markers, filename: assets/KR6k0152_013-X.markers.yaml, hash: 'sha256:ea68873926ef16419c988f5ca1b238aa95c092e515dc51078f33bf1c9aedb558'}
+  - {seq: 14, role: markers, filename: assets/KR6k0152_014-X.markers.yaml, hash: 'sha256:f32de8d138245a7480272ee93eced3129a442a2959b0b27804c199b9176c4a98'}
+  - {seq: 15, role: markers, filename: assets/KR6k0152_015-X.markers.yaml, hash: 'sha256:8a04cb5435dc8dc18e89b4b9c41cb8f793724f67486f3f79a1d6718bfebe54e9'}
+  - {seq: 16, role: markers, filename: assets/KR6k0152_016-X.markers.yaml, hash: 'sha256:d54d66ed8d9c0c922426784fbc5f4e9d23f306ce535c76fc1d5096cfaa283dd7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0152_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 720-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0152_X_000-mulu-2
+    span:
+    - front
+    - 644
+    - 644
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13411
+  label: 毗尼關要卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋本題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-mulu-2
+    span:
+    - body
+    - 2368
+    - 2368
+  label: 釋初讚頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-mulu-3
+    span:
+    - body
+    - 9042
+    - 9042
+  label: 釋前方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-mulu-4
+    span:
+    - body
+    - 10615
+    - 10615
+  label: 釋白羯磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0152_X_001-mulu-5
+    span:
+    - body
+    - 11013
+    - 11013
+  label: 釋戒經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0152_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 14206
+  label: 毗尼關要卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0152_X_002-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋四波羅夷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0152_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 11947
+  label: 毗尼關要卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0152_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 12611
+  label: 毗尼關要卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0152_X_004-mulu-1
+    span:
+    - body
+    - 38
+    - 38
+  label: 釋十三僧伽婆尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0152_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13144
+  label: 毗尼關要卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0152_X_005-mulu-1
+    span:
+    - body
+    - 11100
+    - 11100
+  label: 釋二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0152_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9720
+  label: 毗尼關要卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0152_X_006-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋三十尼薩耆波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0152_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 10874
+  label: 毗尼關要卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0152_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 10855
+  label: 毗尼關要卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0152_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 12788
+  label: 毗尼關要卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0152_X_009-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋九十波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0152_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 12516
+  label: 毗尼關要卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0152_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 13040
+  label: 毗尼關要卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0152_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 12935
+  label: 毗尼關要卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0152_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 13784
+  label: 毗尼關要卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0152_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 11459
+  label: 毗尼關要卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0152_X_014-mulu-1
+    span:
+    - body
+    - 8130
+    - 8130
+  label: 釋四悔過法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0152_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 14295
+  label: 毗尼關要卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0152_X_015-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋眾學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 13214
+  label: 毗尼關要卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 釋七滅諍法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-mulu-2
+    span:
+    - body
+    - 6933
+    - 6933
+  label: 釋總結名目
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-mulu-3
+    span:
+    - body
+    - 7037
+    - 7037
+  label: 釋勸學餘法
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-mulu-4
+    span:
+    - body
+    - 7391
+    - 7391
+  label: 釋七佛戒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0152_X_016-mulu-5
+    span:
+    - body
+    - 10555
+    - 10555
+  label: 釋結勸迴向
+  type: mulu
+  level: 1
+hash: sha256:faf13962c90d881d2e6344b2fe882eb026d40ef4fab52e40c2f0e71bf6927404
