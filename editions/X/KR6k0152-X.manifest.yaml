@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0152_000-X.yaml, hash: 'sha256:74134ac3950e0c145c5c479fd057adee715e03507b05e098bcbad59bca903f7b'}
+  - {seq: 0, filename: KR6k0152_000-X.yaml, hash: 'sha256:cc166a7b19036c856ce0bcb6f2afd738ccaa9c19c6075c7299a47be89f814350'}
   - {seq: 1, filename: KR6k0152_001-X.yaml, hash: 'sha256:bab4f2e45562f7045b04605f7913c7a4e12e8cea47d773271a2f121dc5a38ea4'}
   - {seq: 2, filename: KR6k0152_002-X.yaml, hash: 'sha256:a36e696c956ff9f76c24854b2678e34390866594c194a39801041fa40b0c0529'}
   - {seq: 3, filename: KR6k0152_003-X.yaml, hash: 'sha256:c695075b0124529b3e685ea5d43414e26394cc49f12d0eaa93ed525b1e11c78b'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 15, filename: KR6k0152_015-X.yaml, hash: 'sha256:65a9108c96ecfffff5b371a2eeb7cea6a8c6b0315e41f6b701953ad75c9afde5'}
   - {seq: 16, filename: KR6k0152_016-X.yaml, hash: 'sha256:3ad8dbe20751718ec9d7e222bbe286419a97996d6f7843a52b779b8c6e1c5f18'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0152_000-X.markers.yaml, hash: 'sha256:9eab98afbe45af6270896d05eb9753d5fb0b6f85faf04c28d3f23ec75ce35c9e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0152_000-X.markers.yaml, hash: 'sha256:bfebf7be981418ce6f3a19c04bbf3d7c175e30df02a450d47acf923df9fdb488'}
   - {seq: 1, role: markers, filename: assets/KR6k0152_001-X.markers.yaml, hash: 'sha256:0198df1aeee4394340d4925d5b3c64184613b500a0c80166a99154b72adbb1e4'}
   - {seq: 2, role: markers, filename: assets/KR6k0152_002-X.markers.yaml, hash: 'sha256:688f569f8a9e88facc58d2121199264f1fc4670e60fadb1810b23df329edc9d3'}
   - {seq: 3, role: markers, filename: assets/KR6k0152_003-X.markers.yaml, hash: 'sha256:80ec802c9a5ef07489cdb164080db561d6196854c89ba8f95a9f29ddc1bd8863'}
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0152_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 720-A 序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0152_X_000-mulu-2
     span:
-    - front
+    - body
     - 644
     - 644
   label: 目次
@@ -405,4 +405,4 @@ table_of_contents:
   label: 釋結勸迴向
   type: mulu
   level: 1
-hash: sha256:faf13962c90d881d2e6344b2fe882eb026d40ef4fab52e40c2f0e71bf6927404
+hash: sha256:0ea935029acbb6af6351992f2fcc8e2fb8b1e391b7f5eb51c917dd9e61dffaef
